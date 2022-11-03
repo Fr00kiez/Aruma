@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad1baa5f5b21f048b529a87186b5eaa, type: 3}
+  m_Name: soal 11
+  m_EditorClassIdentifier: 
+  pertanyaan: Steven van der Haagen berhasil mengambil alih daerah ?
+  opsiA: Maluku
+  opsiB: Banten
+  opsiC: Ambon
+  opsiD: Batavia
+  jawaban: 2
